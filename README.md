@@ -33,3 +33,9 @@
 #### 16. Vue.js da Props haqida gapirib bering va uning vazifasi qanday ?
 
 #### 17. Vue.js da WatchEffect funksiyasi qanday ishlaydi va vazifasi nima ?
+
+#### 18. Vue.js da Computed funksiyasi qanday ishlaydi ?
+
+#### 19. Vue.js da v-once va v-memo direktivasi ishlashi ?
+
+#### 20. prop driblingni oldini olish uchun qanday metoddan foydalanasiz ?
